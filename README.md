@@ -41,6 +41,9 @@ CSS / Tailwind CSS (based on implementation)
 
 Folder Structure-
 
+## 📁 Folder Structure
+
+```bash
 src/
 ├── components/
 │   ├── EmployeeCard.jsx
@@ -67,11 +70,12 @@ src/
 │
 ├── App.jsx
 ├── index.css
-└── main.jsx 
+└── main.jsx
+```
 
 setup Instructions -
-1. Clone the repository:
-git clone https://github.com/your-username/employee-directory.git
+1. Clone the repository: https://github.com/Akhilesh-tiwari21/Employee-Directory-App
+git clone 
 
 2. Navigate to project directory
 cd employee-directory
